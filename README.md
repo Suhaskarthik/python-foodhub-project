@@ -5,6 +5,9 @@
 
 # Project Python Foundations: FoodHub Data Analysis
 
+![foodhub](https://github.com/thaychansy/python-foodhub-project/assets/161902555/526a9157-75d9-4a1d-8d28-5d814de3146a)
+
+
 ### Context
 
 The number of restaurants in New York is increasing day by day. Lots of students and busy professionals rely on those restaurants due to their hectic lifestyles. Online food delivery service is a great option for them. It provides them with good food from their favorite restaurants. A food aggregator company FoodHub offers access to multiple restaurants through a single smartphone app.
