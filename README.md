@@ -22,6 +22,29 @@ The food aggregator company has stored the data of the different orders made by 
 
 The data contains the different data related to a food order. The detailed data dictionary is given below.
 
+
+# Conclusions 
+
+The Meatball Shop has the highest average rating with 4.51 stars and 119 rating count.
+
+Shake Shack is a strong contender with a 4.27 rating and a much larger pool of rating count at 195.
+
+Blue Ribbon Sushi at 4.22 stars as the average rating is quite popular as well.
+
+American food are among the most popular cuisine type.
+
+Shake Shack has the highest weighted demand, which considers both average rating and number of ratings (195 ratings at 4.27 average rating). This suggests that Shake Shack is likely the most popular restaurant among the provided ones.
+
+# Recommendations
+
+Analyze negative reviews to identify areas for improvement: Pay attention to what customers don't like and address those issues to improve their experience.
+
+Promote positive aspects based on cuisine type: Since American food appears to be popular, highlight the unique aspects of your American cuisine to stand out from competitors.
+
+Encourage more reviews for restaurants with lower rating count: Encourage satisfied customers to leave reviews to increase visibility and build trust with potential customers, especially for restaurants with a lower rating count. This can be done through in-store signage, email requests, or social media campaigns.
+
+Overall, these insights can help restaurants improve their customer experience and attract more customers. By understanding customer preferences and addressing any shortcomings, restaurants can create a more positive dining experience that will keep customers coming back.
+
 # Data Dictionary
 
 * order_id: Unique ID of the order
