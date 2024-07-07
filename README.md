@@ -43,4 +43,4 @@ Overall, these insights can help restaurants improve their customer experience a
 
 # Website
 
-Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
+Please visit my Portfolio Page: [thaychansy.github.io](https://thaychansy.github.io/)
