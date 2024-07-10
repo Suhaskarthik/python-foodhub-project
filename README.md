@@ -1,7 +1,7 @@
-<center><p float="center">
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/4_RGB_McCombs_School_Brand_Branded.png" width="300" height="100"/>
 
-</p></center>
+
 
 # Project Python Foundations: FOODHUB Data Analysis
 
