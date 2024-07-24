@@ -5,7 +5,7 @@
 
 # Project Python Foundations: FOODHUB Data Analysis
 
-<img width="1000" alt="image" src="[https://github.com/thaychansy/sql-business-case/assets/161902555/b17f7465-648d-4d52-bcc7-8bc0a27edcd1](https://github.com/thaychansy/python-foodhub-project/assets/161902555/526a9157-75d9-4a1d-8d28-5d814de3146a)">
+<img width="1000" alt="image" src="https://github.com/thaychansy/sql-business-case/assets/161902555/b17f7465-648d-4d52-bcc7-8bc0a27edcd1](https://github.com/thaychansy/python-foodhub-project/assets/161902555/526a9157-75d9-4a1d-8d28-5d814de3146a">
 
 # Project Overview
 
