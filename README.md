@@ -5,7 +5,7 @@
 
 # Project Python Foundations: FOODHUB Data Analysis
 
-<img width="942" alt="image" src="https://github.com/thaychansy/python-foodhub-project/assets/161902555/526a9157-75d9-4a1d-8d28-5d814de3146a">
+<img width="1000" height="750" alt="image" src="https://github.com/thaychansy/python-foodhub-project/assets/161902555/526a9157-75d9-4a1d-8d28-5d814de3146a">
 
 # Project Overview
 
