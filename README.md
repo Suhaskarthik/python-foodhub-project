@@ -5,7 +5,7 @@
 
 # Project Python Foundations: FOODHUB Data Analysis
 
-<kbd> <img width="1000" alt="image" src="https://github.com/user-attachments/assets/2bd32656-d1d0-4146-9fe8-1118823a081d"> <\kbd>
+<kbd> <img width="1000" alt="image" src="https://github.com/user-attachments/assets/2bd32656-d1d0-4146-9fe8-1118823a081d"> </kbd>
 
 
 # Project Overview
